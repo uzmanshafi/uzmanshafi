@@ -28,21 +28,7 @@ I'm Uzi — a Bachelor of Computer Science student majoring in Game Development 
 </p>
 
 
-#### Connect with me:
 
-<p align="center">
-  <div align="center" class="icons-social" style="margin-left: 10px;">
-    <a style="margin-left: 10px;" target="_blank" href="https://www.linkedin.com/in/shafi-uzman-fassy-949811198/">
-      <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png">
-    </a>
-    <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/uzim4n/">
-      <img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png">
-    </a>
-    <a style="margin-left: 10px;" target="_blank" href="https://twitter.com/UzmanShafi">
-      <img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png">
-    </a>
-  </div>
-</p>
 
 ---
 
